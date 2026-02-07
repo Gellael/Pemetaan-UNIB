@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Gedung LPTIK",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DIST_KM": 0.259, "DURATION_H": 0.014, "PROFILE": "driving-car", "PREF": "fastest", "OPTIONS": { }, "FROM_ID": null, "TO_ID": null }, "geometry": { "type": "LineString", "coordinates": [ [ 102.275191, -3.75957 ], [ 102.275221, -3.759627 ], [ 102.275144, -3.759678 ], [ 102.275016, -3.759456 ], [ 102.274829, -3.759057 ], [ 102.274751, -3.758855 ], [ 102.274803, -3.758828 ], [ 102.275331, -3.758589 ], [ 102.275221, -3.758332 ], [ 102.275178, -3.75828 ], [ 102.275075, -3.758262 ], [ 102.274936, -3.758273 ] ] } }
+]
+}

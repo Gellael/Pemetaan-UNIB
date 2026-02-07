@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f4f6f9;
+  }
+  
+  header {
+    text-align: center;
+    padding: 15px;
+    background: linear-gradient(to right, #004aad, #00c6ff);
+    color: white;
+  }
+  
+  header h1 {
+    margin: 0;
+    font-size: 22px;
+  }
+  
+  header p {
+    margin: 5px 0 0;
+    font-size: 13px;
+  }
+  
+  #map {
+    height: 80vh;
+    width: 100%;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 10px;
+    font-size: 13px;
+    background: white;
+  }
+  

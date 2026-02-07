@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Lab FKIP",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DIST_KM": 0.208, "DURATION_H": 0.011, "PROFILE": "driving-car", "PREF": "fastest", "OPTIONS": { }, "FROM_ID": null, "TO_ID": null }, "geometry": { "type": "LineString", "coordinates": [ [ 102.275102, -3.759607 ], [ 102.275016, -3.759456 ], [ 102.274829, -3.759057 ], [ 102.274751, -3.758855 ], [ 102.274803, -3.758828 ], [ 102.275331, -3.758589 ], [ 102.275578, -3.758521 ], [ 102.275727, -3.758506 ] ] } }
+]
+}

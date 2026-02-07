@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Gedung FISIP",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DIST_KM": 0.307, "DURATION_H": 0.016, "PROFILE": "driving-car", "PREF": "fastest", "OPTIONS": { }, "FROM_ID": null, "TO_ID": null }, "geometry": { "type": "LineString", "coordinates": [ [ 102.272647, -3.760621 ], [ 102.272626, -3.760559 ], [ 102.272625, -3.760557 ], [ 102.272779, -3.760483 ], [ 102.273412, -3.760388 ], [ 102.273664, -3.760323 ], [ 102.273899, -3.760212 ], [ 102.274309, -3.759942 ], [ 102.274709, -3.759673 ], [ 102.274623, -3.759332 ], [ 102.274595, -3.759302 ] ] } }
+]
+}
